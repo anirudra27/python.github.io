@@ -1,0 +1,5 @@
+Classic 350,Royal Enfield,Gun Metal Grey,122,$4500
+KTM RC 200,Kraftfahrzeuge Trunkenpolz Mattighofen (KTM),Orange Black,95,$5300
+Brutale 800,Meccanica Verghera Agusta(Mv Agusta),White Red,100,$21000
+Kawasaki Ninja H2,Kawasaki,Green,0,$50000
+Jawa42,Jawa,Matte Black,50,$7000
